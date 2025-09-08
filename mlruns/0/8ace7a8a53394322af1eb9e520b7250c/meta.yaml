@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ace7a8a53394322af1eb9e520b7250c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ace7a8a53394322af1eb9e520b7250c
+run_name: traveling-mouse-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319656628
+status: 1
+tags: []
+user_id: aakil

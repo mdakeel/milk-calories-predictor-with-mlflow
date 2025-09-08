@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11405ba9598840ea99d466d23ea1dc12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11405ba9598840ea99d466d23ea1dc12
+run_name: glamorous-moth-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321779501
+status: 1
+tags: []
+user_id: aakil

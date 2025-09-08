@@ -1,0 +1,23 @@
+name: calorie_predictor
+
+entry_points:
+  preprocess:
+    parameters: {}
+    command: "python src/preprocess.py"
+
+  train:
+    parameters: {}
+    command: "python src/train.py --n_estimators {n_estimators}"
+
+  evaluate:
+    parameters: {}
+    command: "python src/evaluate.py"
+
+  full_pipeline:
+    parameters: {}
+    command: >
+      bash -c "
+        python src/preprocess.py &&
+        python src/train.py --n_estimators {n_estimators} &&
+        python src/evaluate.py
+      "

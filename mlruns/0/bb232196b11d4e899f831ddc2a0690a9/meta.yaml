@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bb232196b11d4e899f831ddc2a0690a9/artifacts
+end_time: 1757316306136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb232196b11d4e899f831ddc2a0690a9
+run_name: worried-shrew-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757316305930
+status: 3
+tags: []
+user_id: aakil

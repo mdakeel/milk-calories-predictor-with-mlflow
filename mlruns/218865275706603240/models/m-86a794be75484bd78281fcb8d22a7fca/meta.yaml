@@ -1,0 +1,10 @@
+artifact_location: file:///E:/TechyHunt/MLFlow/milk-calories-predictor-with-mlflow/mlruns/218865275706603240/models/m-86a794be75484bd78281fcb8d22a7fca/artifacts
+creation_timestamp: 1757316181011
+experiment_id: '218865275706603240'
+last_updated_timestamp: 1757316197222
+model_id: m-86a794be75484bd78281fcb8d22a7fca
+model_type: null
+name: model
+source_run_id: 2566d66a4e8b470695472dc102875ddc
+status: 2
+status_message: null

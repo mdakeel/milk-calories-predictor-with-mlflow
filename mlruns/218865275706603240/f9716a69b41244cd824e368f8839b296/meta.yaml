@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/TechyHunt/MLFlow/milk-calories-predictor-with-mlflow/mlruns/218865275706603240/f9716a69b41244cd824e368f8839b296/artifacts
+end_time: 1757318530208
+entry_point_name: ''
+experiment_id: '218865275706603240'
+lifecycle_stage: active
+run_id: f9716a69b41244cd824e368f8839b296
+run_name: resilient-rat-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318300220
+status: 3
+tags: []
+user_id: aakil
